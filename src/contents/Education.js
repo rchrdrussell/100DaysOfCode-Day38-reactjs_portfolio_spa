@@ -1,0 +1,1 @@
+/*Holds the Education page of the SPA*/

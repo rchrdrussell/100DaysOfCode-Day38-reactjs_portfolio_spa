@@ -1,0 +1,1 @@
+/*This component will hold the Education Details*/
