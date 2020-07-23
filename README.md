@@ -1,3 +1,8 @@
+This project is made to learn more about Single Page Applicatons. 
+Specifically, this project will be about creating a Portfolio SPA.
+Source for this project can be found here:
+https://codeburst.io/learn-react-js-build-a-portfolio-single-page-application-spa-ba001082a711
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
